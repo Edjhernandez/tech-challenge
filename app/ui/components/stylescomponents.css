@@ -1,0 +1,20 @@
+.font-feature {
+    font-feature-settings: 'clig' off, 'liga' off;
+}
+
+select {
+    background-image: url('../../../public/images/selectarrow.svg'); /*aquí deberás escribir la ruta de la imagen que utilizarás como flecha del desplegable*/
+    background-repeat: no-repeat;
+    background-position: right center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    width: 5rem;
+}
+    
+select::-ms-expand {
+    display: none; /*Evita que se muestre la flecha por defecto en versiones de IE*/
+}
+
+  
