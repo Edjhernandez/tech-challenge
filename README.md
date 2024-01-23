@@ -1,6 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 😎  TECH CHALLENGE by Eduardo J Hernandez M 😎
 
-## Getting Started
+### In this project I will Implement a Web application - Vehicle Insurance Quotation, and lay out the Web application according to design and complete flow with validation of fields and features. Component creation, use of CSS framework, Clean and scalable code, Respect for the Grid System Layout, and proper API consumption and handling.
+
+# The scope of this project is practice: 📓
+
+## Nextjs 
+## React
+## Typescript
+## Tailwind
+## Redux
+## Responsive Design
+## Git workflow
+
+# Getting Started
 
 First, run the development server:
 
@@ -16,21 +28,28 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/Edjhernandez/tech-challenge/assets/109191350/17037017-0c2b-4985-bacd-0f01b9833518) 
+![image](https://github.com/Edjhernandez/tech-challenge/assets/109191350/48b5c270-cba6-44c9-a488-f8f0aa50b419)
+![image](https://github.com/Edjhernandez/tech-challenge/assets/109191350/68848bff-8239-44d8-a3ec-218335a6ffa2)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Authors 🤯
 
-## Learn More
+- GitHub: [@Edjhernandez](https://github.com/Edjhernandez)
+- Twitter: [@EdjhernandezM](https://twitter.com/EdjhernandezM)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eduardo-hern%C3%A1ndez-53b27358/)
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Contributions, issues, and feature requests are welcome!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Show your support
 
-## Deploy on Vercel
+Give a ⭐️ if you like this project!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Acknowledgments
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Inspiration from teacher and partners
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
